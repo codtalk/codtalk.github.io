@@ -6,41 +6,20 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>codtalk</title>
-    <link>http://codtalk.github.io/</link>
-    <description>Recent content on codtalk</description>
+    <title>office on codtalk</title>
+    <link>http://codtalk.github.io/tags/office/</link>
+    <description>Recent content in office on codtalk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>vanthien.org@outlook.com (Codtalk)</managingEditor>
     <webMaster>vanthien.org@outlook.com (Codtalk)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 17 Dec 2019 23:58:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://codtalk.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://codtalk.github.io/tags/office/index.xml" rel="self" type="application/rss+xml" />
     
     
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
 
       
       <item>
@@ -78,46 +57,6 @@ B3 : Chọn &amp;quot; Tôi là sinh viên&amp;rdquo;, điền đầy đủ thô
           
             
               <category>Microsoft</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Đổi tên hoàng loạt cho google drive</title>
-        <link>http://codtalk.github.io/posts/doi-ten-hoang-loat-gg-drive/</link>
-        <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-        <author>vanthien.org@outlook.com (Codtalk)</author>
-        <atom:modified>Mon, 13 Apr 2020 00:00:00 +0000</atom:modified>
-        <guid>http://codtalk.github.io/posts/doi-ten-hoang-loat-gg-drive/</guid>
-        <description>Đổi Tên Hàng Loạt Cho Google Drive
-Trong khi dùng drive sẽ có lúc bạn sẽ thấy vướng mắt với một số tệp có tên không như ý ( bản sao ….):
-Hôm nay minh sẽ hướng dẫn các bạn thay đổi tên hàng loạt, để Drive trông gọn gàng hơn nhé !
-B1 : Đăng nhập tài khoản drive vào trình duyệt chrom.
-B2 : Tạo tab mới và gõ Multiple File Rename for Google Drive trên google để thêm ứng dụng vào chrom</description>
-        
-        <dc:creator>Văn Thiên</dc:creator>
-        <media:content url="http://codtalk.github.io/images/featured/gg%20drive.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>rename</category>
-            
-          
-            
-              <category>google</category>
-            
-          
-        
-        
-        
-          
-            
-          
-            
-              <category>mẹo google</category>
             
           
         
